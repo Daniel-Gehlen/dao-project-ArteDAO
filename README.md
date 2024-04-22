@@ -1,4 +1,4 @@
-# ArteDAO Project
+# Imaginary Project for a course work: ArteDAO Project
 
 ## DAO Name: ArteDAO
 
